@@ -2,6 +2,7 @@
 
 ### Replit Link: https://replit.com/
 ### Apex Legends API: https://apexlegendsapi.com/
+### Discord Dev Portal: https://discord.com/developers/docs/intro
 
 ## List of Packages Needed:
 - python = "^3.8"
