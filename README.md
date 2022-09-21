@@ -1,4 +1,4 @@
-# ItsSpresDiscordBot
+# Apex Legends Map Bot 
 
 ### Replit Link: https://replit.com/
 ### Apex Legends API: https://apexlegendsapi.com/
